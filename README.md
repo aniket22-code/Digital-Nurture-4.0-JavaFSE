@@ -1,1 +1,1 @@
-This is the java FSE assignments and quizzes folders containing all hands-on files and screenshots of output of each hands-on attached with it .
+This is the java FSE assignments and quizzes folders containing all hands-on files and screenshots of output.
